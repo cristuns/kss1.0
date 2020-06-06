@@ -1,0 +1,36 @@
+.title{
+    font-size: 120px;
+    color: yellow;
+}
+a{
+    font-size: 60px;
+    text-decoration: none;
+    color: yellow;
+}
+#now{
+    color: black;
+}
+#bg{
+    font-size: 100px;
+    text-decoration: none;
+    color: black; 
+}
+.t{
+    color: red;
+    color: blue;
+    color: goldenrod;
+    color: yellow;
+    color: green;
+    color: white;
+    color: black;
+    color: aquamarine;
+}
+body{
+    background-color: aquamarine;
+}
+h1{
+    color: yellow;
+}
+h6{
+    color: yellow;
+}
